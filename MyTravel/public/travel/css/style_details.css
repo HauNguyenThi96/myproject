@@ -1,0 +1,157 @@
+/*begin contact*/
+.slide-img{
+	min-height: 200px;
+	background-color: lightblue;
+}
+.contact{
+	padding:10px 5px;
+	margin-top: 20px;
+	min-height: 200px;
+}
+.aside-sc{
+	margin-bottom:30px;
+}
+.aside-left{
+	width: 75px;
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+    background-color: #ff891e;
+    padding-right: 0;
+    margin-right: 25px;
+    font-size: 35px;
+    float: left;
+}
+.aside-left i{
+	color: #fff;
+}
+.aside-body .media-heading{
+	margin-top:20px;
+	text-transform: uppercase;
+}
+/*end contact*/
+/*begin login*/
+.panel{
+	margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid lightblue;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.panel-login{
+	width: 320px;
+	/*display: none;*/
+}
+.panel-heading-login{
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.login-title{
+	margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    color: inherit;
+    text-align: center;
+}
+.panel-body-login{
+	padding:10px;
+}
+
+.btn-login{
+	font-size: 15px;
+	width: 25%;
+	padding:8px 10px;
+	border-radius: 4px;
+	color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+.btn-cancel{
+	background-color:#b50707;
+	border-color: #b50707;
+}
+.btn-login:hover{
+	background-color: #095611;
+}
+.btn-cancel:hover{
+	background-color: #a00e0e;
+}
+.title-login>a{
+	margin-left:40px;
+}
+.required{
+	position: absolute;
+    top: 40%;
+    left: 58%;
+}
+.required1{
+	position: absolute;
+	top:36%;
+	left: 58%;
+}
+#important{
+	color:#D00808;
+}
+#check-sucess{
+	color:green;
+}
+#fr-close,#close-register{
+	margin-right: -12px;
+	margin-top: -28px;
+	padding:1px 2px;
+	line-height: 25px;
+	font-size: 25px;
+	float: right;
+	cursor:pointer;
+}
+.window-popup{
+	position: absolute;
+	left: 32%;
+	top:70%;
+}
+/*end login*/
+/*begin register*/
+.panel-register{
+	width: 600px;
+	/*display: none;*/
+}
+.fr-group-register{
+	padding:20px 0px 15px 0px;
+}
+.fr-control-register
+{
+	width: 70%;
+	border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 12px 10px;
+    margin-top: -10px;
+    float: right;
+    font-size: 14px;
+}
+.btn-register{
+	padding:10px 15px;
+	color: #fff;
+	font-size: 15px;
+	width: 25%;
+	border:1px solid #337ab7;
+	border-radius: 4px;
+	background-color:#337ab7;
+	margin-left: 200px;
+	cursor: pointer;
+}
+.btn-register:hover{
+	background-color:#095596;
+}
+.txt-label{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/*end register*/
+

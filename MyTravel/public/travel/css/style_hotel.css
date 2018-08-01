@@ -1,0 +1,86 @@
+.Hotel{
+	margin-top: 40px;
+	background-color: whitesmoke;
+}
+.Titlehotel{
+	text-align: center;
+	color:#ff891e;
+	font-size: 30px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.search-hotel{
+	background-color:#866148;
+	text-align: center;
+	padding:15px 20px;
+	margin-bottom: 20px;
+}
+.search-hotel .hotel-sr{
+	display: inline-block;
+	width: 25%;
+}
+.search-hotel input[type="date"]{
+	width:20%;
+}
+.ColHotel{
+	margin-bottom: 30px;
+}
+.hotel-detail{
+	min-height: 300px;
+}
+.frame-cost{
+	position: absolute;
+   top:65%;
+    padding: 15px 10px 10px 10px;
+    background: linear-gradient(to bottom,rgba(0,0,0,.1),#000);
+    width: 360px;
+}
+.cost{
+	position: absolute;
+	color:#e06810;
+	font-size:22px;
+	left:65%;
+	top:-15%;
+}
+.star{
+	  top: 0%;
+    position: absolute;
+    padding: 10px 15px 1px 10px;
+    /*background-color: #e0dcdb;*/
+    border: 1px solid #fff;
+    border-radius: 4px;
+    color: #FFEB3B;
+    font-size: 40px;
+    text-align: center;
+}
+.content-hotel{
+	padding:10px;
+	text-align: center;
+	border:1px solid #d6d1d1;
+	border-radius: 5px;
+}
+.content-hotel .title-content{
+	width: 100%;
+	height: 28px;
+	overflow: hidden;
+}
+.title-content>h4{
+	color:#ff891e;
+	font-size:18px;
+
+}
+.hotel-ct{
+	margin-top: 10px;
+}
+.hotel-thumbnail{
+	min-height: 180px;
+	background-color:#eee;
+}
+.list-hotel li{
+	font-size: 15px;
+	padding-top: 5px;
+}
+.thumbnailheader{
+	font-size: 18px;
+
+}

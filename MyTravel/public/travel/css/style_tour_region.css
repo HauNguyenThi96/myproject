@@ -1,0 +1,73 @@
+.search-tour{
+	margin-bottom:10px;
+	padding:10px 20px;
+}
+.panel-tour{
+   width:100%;
+    border-radius: 5px;
+    border: 1px solid #bce8f1;
+}
+.title-search{
+	padding: 10px;
+    margin-top: 0px;
+    font-size: 14px;
+    color: #076694;
+    font-family: Lemonada;
+    background-color: #c9dee8;
+}
+.toursr-body{
+	margin-top:-10px;
+	background-color: #a27759;
+    text-align: center;
+	padding:15px 20px;
+}
+.toursr-body .sr-tour{
+	width: 20%;
+ 	display: inline-block;
+}
+/*begin content*/
+.section-title .tour-title{
+	display: inline-block;
+	margin-top:20px;
+	width:100%;
+}
+.tour-title .hr{
+	margin-left: 20%;
+    width: 72%;
+    margin-top: -15px;
+    border-bottom: 1.5px solid #dcd2d2;
+    text-align: center;
+}
+.title-south{
+	padding: 5px 10px;
+	border-radius: 4px;
+    background-color: #efe8e829;
+    text-transform: uppercase;
+    font-size: 21px;
+    font-weight: bold;
+    font-family: Lemonada;
+    color: #de6308;
+}
+.continue-tour{
+	margin-right:10px;
+	float: right;
+	font-size:12px;
+	text-transform: none;
+}
+.tour-region{
+	margin-bottom: 20px;
+}
+.overlayInfo h5{
+
+}
+.overlay-right{
+	float: right;
+	  padding: 5px;
+}
+.overlay-right>span{
+	font-weight: bold;
+	color:#cc0d0d;
+	font-size:18px;
+}
+
+/*end content tour*/
